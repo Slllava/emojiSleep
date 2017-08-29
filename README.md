@@ -2,6 +2,4 @@
 # emojiSleep
 Quick buttons for sleeping
 
-![screen](https://github.com/Slllava/emojiSleep/blob/master/dock%20app.png "dock app")
-
-![screen](https://github.com/Slllava/emojiSleep/blob/master/dmg_app.png "dmg app")
+![screen](https://github.com/Slllava/emojiSleep/blob/master/screenapp.png "screen app")
